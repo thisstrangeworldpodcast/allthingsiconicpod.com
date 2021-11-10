@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version='2.0' xmlns:content='http://purl.org/rss/1.0/modules/content/' xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd'>
+    <channel>
+        <language>en-US</language>
+        <copyright>Copyright 2021 High Tops Media &amp; Gavin Berger</copyright>
+        <title>The Penalty Flag</title>
+        <description><![CDATA[<p></p>
+]]></description>
+        <link>https://www.allthingsiconicpod.com/</link>
+		
+        <itunes:image href='https://www.allthingsiconicpod.com/assets/CoverArtSeason1.png'/>
+        
+		<itunes:category text='Sports'>
+            <itunes:category text='Football'/>
+        </itunes:category>
+		
+		<itunes:author>High Tops Media &amp; Chris Ashe, Tony Smith</itunes:author>
+        <itunes:owner>
+            <itunes:name>This Strange World Podcast Administrator</itunes:name>
+            <itunes:email>admin@thisstrangeworldpodcast.com</itunes:email>
+        </itunes:owner>
+		
+        <itunes:explicit>true</itunes:explicit>
+        <itunes:type>episodic</itunes:type>
+        <item>
+            <title>Introducing All Things Iconic</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/ATI/ATI_S01_00_Trailer1.mp3' length='1210565' type='audio/mpeg'/>
+			<guid>2021-11-09-Trailer1</guid>
+            <pubDate>Tue, 09 Nov 2021 22:40:00 -0500</pubDate>
+            <description><![CDATA[<p>Introducing All Things Iconic!</p>
+]]></description>
+            <itunes:duration>50</itunes:duration>
+            <link>https://www.allthingsiconicpod.com/2021/11/09/Trailer1/</link>
+			<itunes:image href='https://www.allthingsiconicpod.com/assets/CoverArtSeason1.png'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>0</itunes:episode>
+			<itunes:season>1</itunes:season>
+            <itunes:episodeType>trailer</itunes:episodeType>
+        </item>
+    </channel>
+</rss>
