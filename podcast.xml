@@ -23,7 +23,7 @@
             <itunes:email>admin@thisstrangeworldpodcast.com</itunes:email>
         </itunes:owner>
 		
-        <itunes:explicit>true</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
             <title>Introducing All Things Iconic</title>
