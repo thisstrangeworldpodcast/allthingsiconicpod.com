@@ -26,6 +26,29 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>A Friendsgiving Special</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/ATI/ATI_S01_02_A-Friendsgiving-Special.mp3' length='89407570' type='audio/mpeg'/>
+			<guid>2021-11-23-A-Friendsgiving-Special</guid>
+            <pubDate>Tue, 23 Nov 2021 03:30:00 -0500</pubDate>
+            <description><![CDATA[<p>With Thanksgiving around the corner, Jenna brings on her best friend from day 1 of college, Gerald, to celebrate Friendsgiving. They catch up like good friends do and share what in pop culture they are must thankful for. To close things off they play a game of “Pass The Turkey”… you’ll have to tune in to hear what it’s all about.</p>
+
+<p>Don’t forget to follow on Instagram! <br />
+https://www.instagram.com/allthingsiconicpod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3724</itunes:duration>
+            <link>https://www.allthingsiconicpod.com/2021/11/23/A-Friendsgiving-Special/</link>
+			<itunes:image href='https://www.allthingsiconicpod.com/assets/CoverArtSeason1.png'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>2</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Weird Celebrity Couples</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/ATI/ATI_S01_01_Weird-Celebrity-Couples-v2.mp3' length='74220977' type='audio/mpeg'/>
 			<guid>2021-11-16-Weird-Celebrity-Couples</guid>
