@@ -26,6 +26,29 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>And Just Like That…Is Sex and the City back?</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/ATI/ATI_S01_05_Sex-and-the-City-reboot.mp3' length='76180274' type='audio/mpeg'/>
+			<guid>2021-12-14-Sex-and-the-City-reboot</guid>
+            <pubDate>Tue, 14 Dec 2021 06:00:00 -0500</pubDate>
+            <description><![CDATA[<p>The long awaited Sex and the City reboot is here! Jenna brings on her friend, Zawadi, and while they might not have been the original target audience for the show, they sure do have some thoughts. We couldn’t help but wonder… was this reboot a flop?</p>
+
+<p>Don’t forget to follow on Instagram! <br />
+https://www.instagram.com/allthingsiconicpod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3173</itunes:duration>
+            <link>https://www.allthingsiconicpod.com/2021/12/14/Sex-and-the-City-reboot/</link>
+			<itunes:image href='https://www.allthingsiconicpod.com/assets/CoverArtSeason1.png'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>5</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>Bachelor Nation Tea</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/ATI/ATI_S01_04_Bachelor-Nation-Tea.mp3' length='79476221' type='audio/mpeg'/>
 			<guid>2021-12-07-Bachelor-Nation-Tea</guid>
