@@ -26,6 +26,29 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Year in Review: Most Iconic, Least Iconic</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/ATI/ATI_S01_07_Year-in-Review-2021.mp3' length='67723490' type='audio/mpeg'/>
+			<guid>2021-12-29-Year-in-Review-2021</guid>
+            <pubDate>Wed, 29 Dec 2021 11:00:00 -0500</pubDate>
+            <description><![CDATA[<p>2021: a year full of engagements, reunions, COVID, and scandals. With New Years around the corner, Jenna brings on her sister, Ilana, to take a look at the most iconic and least iconic headlines of 2021.</p>
+
+<p>Don’t forget to follow on Instagram! <br />
+https://www.instagram.com/allthingsiconicpod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>2821</itunes:duration>
+            <link>https://www.allthingsiconicpod.com/2021/12/29/Year-in-Review-2021/</link>
+			<itunes:image href='https://www.allthingsiconicpod.com/assets/CoverArtSeason1.png'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>7</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>A Kardashian Kristmas</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/ATI/ATI_S01_06_A-Kardashian-Kristmas.mp3' length='73266761' type='audio/mpeg'/>
 			<guid>2021-12-21-A-Kardashian-Kristmas</guid>
