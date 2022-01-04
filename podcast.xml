@@ -26,6 +26,29 @@
         <itunes:explicit>false</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <item>
+            <title>Off to LA</title>
+            <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/ATI/ATI_S01_08_Off-to-LA.mp3' length='73724078' type='audio/mpeg'/>
+			<guid>2022-01-04-Off-to-LA</guid>
+            <pubDate>Tue, 04 Jan 2022 01:00:00 -0500</pubDate>
+            <description><![CDATA[<p>In order to prep for her semester in Los Angeles, Jenna turns to Gerald, her friend and fellow Ithaca College student, who recently returned from his semester in LA. He shares his wildest stories, explains what it’s like being an LA transplant, and answers the question Jenna has been dying to know: Is Saddle Ranch really worth the hype?</p>
+
+<p>Don’t forget to follow on Instagram! <br />
+https://www.instagram.com/allthingsiconicpod/</p>
+
+<p>A High Tops Media Podcast<br />
+You can follow for more High Tops Media content on Facebook, Instagram, and Twitter: @hightopsmedia<br />
+Check out more podcasts on our website https://hightops.media</p>
+]]></description>
+            <itunes:duration>3071</itunes:duration>
+            <link>https://www.allthingsiconicpod.com/2022/01/04/Off-to-LA/</link>
+			<itunes:image href='https://www.allthingsiconicpod.com/assets/CoverArtSeason1.png'/>
+            <itunes:explicit>false</itunes:explicit>
+			
+			<itunes:episode>8</itunes:episode>
+			<itunes:season>1</itunes:season>
+            
+        </item>
+        <item>
             <title>2021 Year in Review: Most Iconic, Least Iconic</title>
             <enclosure url='https://dts.podtrac.com/redirect.mp3/cdn.thisstrangeworldpodcast.com/file/thisstrangeworldpodcast/ATI/ATI_S01_07_Year-in-Review-2021.mp3' length='67723490' type='audio/mpeg'/>
 			<guid>2021-12-29-Year-in-Review-2021</guid>
